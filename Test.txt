@@ -1,784 +1,1154 @@
-Calculus, originally called infinitesimal calculus or "the calculus of infinitesimals", is the mathematical study of continuous change, in the same way that geometry is the study of shape, and algebra is the study of generalizations of arithmetic operations.
-It has two major branches, differential calculus and integral calculus; the former concerns instantaneous rates of change, and the slopes of curves, while the latter concerns accumulation of quantities, and areas under or between curves. These two branches are related to each other by the fundamental theorem of calculus, and they make use of the fundamental notions of convergence of infinite sequences and infinite series to a well-defined limit.Infinitesimal calculus was developed independently in the late 17th century by Isaac Newton and Gottfried Wilhelm Leibniz. Later work, including codifying the idea of limits, put these developments on a more solid conceptual footing. Today, calculus has widespread uses in science, engineering, and social science.
-
-
-== Etymology ==
-In mathematics education, calculus denotes courses of elementary mathematical analysis, which are mainly devoted to the study of functions and limits. The word calculus is Latin for "small pebble" (the diminutive of calx, meaning "stone"), a meaning which still persists in medicine. Because such pebbles were used for counting out distances, tallying votes, and doing abacus arithmetic, the word came to mean a method of computation. In this sense, it was used in English at least as early as 1672, several years prior to the publications of Leibniz and Newton.In addition to the differential calculus and integral calculus, the term is also used for naming specific methods of calculation and related theories which seek to model a particular concept in terms of mathematics. Examples of this convention include propositional calculus, Ricci calculus, calculus of variations, lambda calculus, and process calculus. Furthermore, the term "calculus" has variously been applied in ethics and philosophy, for such systems as Bentham's felicific calculus, and the ethical calculus.
+Nuclear fusion is a reaction in which two or more atomic nuclei are combined to form one or more different atomic nuclei and subatomic particles (neutrons or protons). The difference in mass between the reactants and products is manifested as either the release or absorption of energy. This difference in mass arises due to the difference in nuclear binding energy between the atomic nuclei before and after the reaction. Nuclear fusion is the process that powers active or main-sequence stars and other high-magnitude stars, where large amounts of energy are released.
+A nuclear fusion process that produces atomic nuclei lighter than iron-56 or nickel-62 will generally release energy. These elements have a relatively small mass and a relatively large binding energy per nucleon. Fusion of nuclei lighter than these releases energy (an exothermic process), while the fusion of heavier nuclei results in energy retained by the product nucleons, and the resulting reaction is endothermic. The opposite is true for the reverse process, called nuclear fission. Nuclear fusion uses lighter elements, such as hydrogen and helium, which are in general more fusible; while the heavier elements, such as uranium, thorium and plutonium, are more fissionable. The extreme astrophysical event of a supernova can produce enough energy to fuse nuclei into elements heavier than iron.
 
 
 == History ==
 
-Modern calculus was developed in 17th-century Europe by Isaac Newton and Gottfried Wilhelm Leibniz (independently of each other, first publishing around the same time) but elements of it appeared in ancient Greece, then in China and the Middle East, and still later again in medieval Europe and in India.
+In 1920, Arthur Eddington suggested hydrogen–helium fusion could be the primary source of stellar energy. Quantum tunneling was discovered by Friedrich Hund in 1927, and shortly afterwards Robert Atkinson and Fritz Houtermans used the measured masses of light elements to demonstrate that large amounts of energy could be released by fusing small nuclei. Building on the early experiments in artificial nuclear transmutation by Patrick Blackett, laboratory fusion of hydrogen isotopes was accomplished by Mark Oliphant in 1932. In the remainder of that decade, the theory of the main cycle of nuclear fusion in stars was worked out by Hans Bethe.  Research into fusion for military purposes began in the early 1940s as part of the Manhattan Project. Self-sustaining nuclear fusion was first carried out on 1 November 1952, in the Ivy Mike hydrogen (thermonuclear) bomb test.
+While fusion was achieved in the operation of the hydrogen bomb (H-bomb), for it to be a useful energy source controlled, sustained fusion is required. Research into developing controlled fusion inside fusion reactors has been ongoing since the 1930s, but the technology is still in its developmental phase.The US National Ignition Facility, which uses laser-driven inertial confinement fusion, was designed with a goal of break-even fusion; the first large-scale laser target experiments were performed in June 2009 and ignition experiments began in early 2011.  On 13 December 2022, the United States Department of Energy announced that on 5 December 2022, they had successfully accomplished break-even fusion, "delivering 2.05 megajoules (MJ) of energy to the target, resulting in 3.15 MJ of fusion energy output."Prior to this breakthrough, controlled fusion reactions had been unable to produce break-even (self-sustaining) controlled fusion. The two most advanced approaches for it are magnetic confinement (toroid designs) and inertial confinement (laser designs). Workable designs for a toroidal reactor that theoretically will deliver ten times more fusion energy than the amount needed to heat plasma to the required temperatures are in development (see ITER). The ITER facility is expected to finish its construction phase in 2025. It will start commissioning the reactor that same year and initiate plasma experiments in 2025, but is not expected to begin full deuterium–tritium fusion until 2035.Private companies pursuing the commercialization of nuclear fusion received $2.6 billion in private funding in 2021 alone, going to many notable startups including but not limited to Commonwealth Fusion Systems, Helion Energy Inc., TAE Technologies Inc. and Zap Energy Inc.Similarly, Canadian-based General Fusion, which is developing a magnetized target fusion nuclear energy system, aims to build its demonstration plant by 2025.
 
 
-=== Ancient precursors ===
+== Process ==
+
+The release of energy with the fusion of light elements is due to the interplay of two opposing forces: the nuclear force, a manifestation of the strong interaction, which holds protons and neutrons tightly together in the atomic atomic nucleus; and the Coulomb force, which causes positively charged protons in the nucleus to repel each other. Lighter nuclei (nuclei smaller than iron and nickel) are sufficiently small and proton-poor to allow the nuclear force to overcome the Coulomb force. This is because the nucleus is sufficiently small that all nucleons feel the short-range attractive force at least as strongly as they feel the infinite-range Coulomb repulsion. Building up nuclei from lighter nuclei by fusion releases the extra energy from the net attraction of particles. For larger nuclei, however, no energy is released, because the nuclear force is short-range and cannot act across larger nuclei.
+Fusion powers stars and produces virtually all elements in a process called nucleosynthesis. The Sun is a main-sequence star, and, as such, generates its energy by nuclear fusion of hydrogen nuclei into helium. In its core, the Sun fuses 620 million metric tons of hydrogen and makes 616 million metric tons of helium each second. The fusion of lighter elements in stars releases energy and the mass that always accompanies it. For example, in the fusion of two hydrogen nuclei to form helium, 0.645% of the mass is carried away in the form of kinetic energy of an alpha particle or other forms of energy, such as electromagnetic radiation.It takes considerable energy to force nuclei to fuse, even those of the lightest element, hydrogen. When accelerated to high enough speeds, nuclei can overcome this electrostatic repulsion and be brought close enough such that the attractive nuclear force is greater than the repulsive Coulomb force. The strong force grows rapidly once the nuclei are close enough, and the fusing nucleons can essentially "fall" into each other and the result is fusion and net energy produced. The fusion of lighter nuclei, which creates a heavier nucleus and often a free neutron or proton, generally releases more energy than it takes to force the nuclei together; this is an exothermic process that can produce self-sustaining reactions.Energy released in most nuclear reactions is much larger than in chemical reactions, because the binding energy that holds a nucleus together is greater than the energy that holds electrons to a nucleus. For example, the ionization energy gained by adding an electron to a hydrogen nucleus is 13.6 eV—less than one-millionth of the 17.6 MeV released in the deuterium–tritium (D–T) reaction shown in the adjacent diagram. Fusion reactions have an energy density many times greater than nuclear fission; the reactions produce far greater energy per unit of mass even though individual fission reactions are generally much more energetic than individual fusion ones, which are themselves millions of times more energetic than chemical reactions. Only direct conversion of mass into energy, such as that caused by the annihilatory collision of matter and antimatter, is more energetic per unit of mass than nuclear fusion. (The complete conversion of one gram of matter would release 9×1013 joules of energy.)
 
 
-==== Egypt ====
-Calculations of volume and area, one goal of integral calculus, can be found in the Egyptian Moscow papyrus (c. 1820 BC), but the formulae are simple instructions, with no indication as to how they were obtained.
+== Nuclear fusion in stars ==
+
+An important fusion process is the stellar nucleosynthesis that powers stars, including the Sun. In the 20th century, it was recognized that the energy released from nuclear fusion reactions accounts for the longevity of stellar heat and light. The fusion of nuclei in a star, starting from its initial hydrogen and helium abundance, provides that energy and synthesizes new nuclei. Different reaction chains are involved, depending on the mass of the star (and therefore the pressure and temperature in its core).
+Around 1920, Arthur Eddington anticipated the discovery and mechanism of nuclear fusion processes in stars, in his paper The Internal Constitution of the Stars. At that time, the source of stellar energy was unknown; Eddington correctly speculated that the source was fusion of hydrogen into helium, liberating enormous energy according to Einstein's equation E = mc2. This was a particularly remarkable development since at that time fusion and thermonuclear energy had not yet been discovered, nor even that stars are largely composed of hydrogen (see metallicity). Eddington's paper reasoned that:
+
+The leading theory of stellar energy, the contraction hypothesis, should cause the rotation of a star to visibly speed up due to conservation of angular momentum. But observations of Cepheid variable stars showed this was not happening.
+The only other known plausible source of energy was conversion of matter to energy; Einstein had shown some years earlier that a small amount of matter was equivalent to a large amount of energy.
+Francis Aston had also recently shown that the mass of a helium atom was about 0.8% less than the mass of the four hydrogen atoms which would, combined, form a helium atom (according to the then-prevailing theory of atomic structure which held atomic weight to be the distinguishing property between elements; work by Henry Moseley and Antonius van den Broek would later show that nucleic charge was the distinguishing property and that a helium nucleus, therefore, consisted of two hydrogen nuclei plus additional mass).  This suggested that if such a combination could happen, it would release considerable energy as a byproduct.
+If a star contained just 5% of fusible hydrogen, it would suffice to explain how stars got their energy. (it is now known that most 'ordinary' stars contain far more than 5% hydrogen.)
+Further elements might also be fused, and other scientists had speculated that stars were the "crucible" in which light elements combined to create heavy elements, but without more accurate measurements of their atomic masses nothing more could be said at the time.All of these speculations were proven correct in the following decades.
+The primary source of solar energy, and that of similar size stars, is the fusion of hydrogen to form helium (the proton–proton chain reaction), which occurs at a solar-core temperature of 14 million kelvin. The net result is the fusion of four protons into one alpha particle, with the release of two positrons and two neutrinos (which changes two of the protons into neutrons), and energy. In heavier stars, the CNO cycle and other processes are more important. As a star uses up a substantial fraction of its hydrogen, it begins to synthesize heavier elements. The heaviest elements are synthesized by fusion that occurs when a more massive star undergoes a violent supernova at the end of its life, a process known as supernova nucleosynthesis.
 
 
-==== Greece ====
+== Requirements ==
+A substantial energy barrier of electrostatic forces must be overcome before fusion can occur. At large distances, two naked nuclei repel one another because of the repulsive electrostatic force between their positively charged protons. If two nuclei can be brought close enough together, however, the electrostatic repulsion can be overcome by the quantum effect in which nuclei can tunnel through coulomb forces.
+When a nucleon such as a proton or neutron is added to a nucleus, the nuclear force attracts it to all the other nucleons of the nucleus (if the atom is small enough), but primarily to its immediate neighbors due to the short range of the force. The nucleons in the interior of a nucleus have more neighboring nucleons than those on the surface. Since smaller nuclei have a larger surface-area-to-volume ratio, the binding energy per nucleon due to the nuclear force generally increases with the size of the nucleus but approaches a limiting value corresponding to that of a nucleus with a diameter of about four nucleons. It is important to keep in mind that nucleons are quantum objects. So, for example, since two neutrons in a nucleus are identical to each other, the goal of distinguishing one from the other, such as which one is in the interior and which is on the surface, is in fact meaningless, and the inclusion of quantum mechanics is therefore necessary for proper calculations.
+The electrostatic force, on the other hand, is an inverse-square force, so a proton added to a nucleus will feel an electrostatic repulsion from all the other protons in the nucleus. The electrostatic energy per nucleon due to the electrostatic force thus increases without limit as nuclei atomic number grows.
 
-Laying the foundations for integral calculus and foreshadowing the concept of the limit, ancient Greek mathematician Eudoxus of Cnidus (c. 390 – 337 BC) developed  the method of exhaustion to prove the formulas for cone and pyramid volumes.
-During the Hellenistic period, this method was further developed by Archimedes (c. 287 – c. 212 BC), who combined it with a concept of the indivisibles—a precursor to infinitesimals—allowing him to solve several problems now treated by integral calculus. In The Method of Mechanical Theorems he describes. for example, calculating the center of gravity of a solid hemisphere, the center of gravity of a frustum of a circular paraboloid, and the area of a region bounded by a parabola and one of its secant lines.
+The net result of the opposing electrostatic and strong nuclear forces is that the binding energy per nucleon generally increases with increasing size, up to the elements iron and nickel, and then decreases for heavier nuclei. Eventually, the binding energy becomes negative and very heavy nuclei (all with more than 208 nucleons, corresponding to a diameter of about 6 nucleons) are not stable. The four most tightly bound nuclei, in decreasing order of binding energy per nucleon, are 62Ni, 58Fe, 56Fe, and 60Ni. Even though the nickel isotope, 62Ni, is more stable, the iron isotope 56Fe is an order of magnitude more common. This is due to the fact that there is no easy way for stars to create 62Ni through the alpha process.
+An exception to this general trend is the helium-4 nucleus, whose binding energy is higher than that of lithium, the next heavier element. This is because protons and neutrons are fermions, which according to the Pauli exclusion principle cannot exist in the same nucleus in exactly the same state. Each proton or neutron's energy state in a nucleus can accommodate both a spin up particle and a spin down particle. Helium-4 has an anomalously large binding energy because its nucleus consists of two protons and two neutrons (it is a doubly magic nucleus), so all four of its nucleons can be in the ground state. Any additional nucleons would have to go into higher energy states.  Indeed, the helium-4 nucleus is so tightly bound that it is commonly treated as a single quantum mechanical particle in nuclear physics, namely, the alpha particle.
+The situation is similar if two nuclei are brought together. As they approach each other, all the protons in one nucleus repel all the protons in the other. Not until the two nuclei actually come close enough for long enough so the strong nuclear force can take over (by way of tunneling) is the repulsive electrostatic force overcome. Consequently, even when the final energy state is lower, there is a large energy barrier that must first be overcome. It is called the Coulomb barrier.
+The Coulomb barrier is smallest for isotopes of hydrogen, as their nuclei contain only a single positive charge. A diproton is not stable, so neutrons must also be involved, ideally in such a way that a helium nucleus, with its extremely tight binding, is one of the products.
+Using deuterium–tritium fuel, the resulting energy barrier is about 0.1 MeV. In comparison, the energy needed to remove an electron from hydrogen is 13.6 eV. The (intermediate) result of the fusion is an unstable 5He nucleus, which immediately ejects a neutron with 14.1 MeV. The recoil energy of the remaining 4He nucleus is 3.5 MeV, so the total energy liberated is 17.6 MeV. This is many times more than what was needed to overcome the energy barrier.
 
-
-==== China ====
-The method of exhaustion was later discovered independently in China by Liu Hui in the 3rd century AD in order to find the area of a circle. In the 5th century AD, Zu Gengzhi, son of Zu Chongzhi, established a method that would later be called Cavalieri's principle to find the volume of a sphere.
-
-
-=== Medieval ===
-
-
-==== Middle East ====
-
-In the Middle East, Hasan Ibn al-Haytham, Latinized as Alhazen (c. 965 – c. 1040 AD) derived a formula for the sum of fourth powers. He used the results to carry out what would now be called an integration of this function, where the formulae for the sums of integral squares and fourth powers allowed him to calculate the volume of a paraboloid.
-
-
-==== India ====
-In the 14th century, Indian mathematicians gave a non-rigorous method, resembling differentiation, applicable to some trigonometric functions. Madhava of Sangamagrama and the Kerala School of Astronomy and Mathematics thereby stated components of calculus. A complete theory encompassing these components is now well known in the Western world as the Taylor series or infinite series approximations. However, they were not able to "combine many differing ideas under the two unifying themes of the derivative and the integral, show the connection between the two, and turn calculus into the great problem-solving tool we have today".
-
-
-=== Modern ===
-Johannes Kepler's work Stereometrica Doliorum formed the basis of integral calculus. Kepler developed a method to calculate the area of an ellipse by adding up the lengths of many radii drawn from a focus of the ellipse.A significant work was a treatise, the origin being Kepler's methods, written by Bonaventura Cavalieri, who argued that volumes and areas should be computed as the sums of the volumes and areas of infinitesimally thin cross-sections. The ideas were similar to Archimedes' in The Method, but this treatise is believed to have been lost in the 13th century, and was only rediscovered in the early 20th century, and so would have been unknown to Cavalieri. Cavalieri's work was not well respected since his methods could lead to erroneous results, and the infinitesimal quantities he introduced were disreputable at first.
-The formal study of calculus brought together Cavalieri's infinitesimals with the calculus of finite differences developed in Europe at around the same time. Pierre de Fermat, claiming that he borrowed from Diophantus, introduced the concept of adequality, which represented equality up to an infinitesimal error term. The combination was achieved by John Wallis, Isaac Barrow, and James Gregory, the latter two proving predecessors to the second fundamental theorem of calculus around 1670.The product rule and chain rule, the notions of higher derivatives and Taylor series, and of analytic functions were used by Isaac Newton in an idiosyncratic notation which he applied to solve problems of mathematical physics. In his works, Newton rephrased his ideas to suit the mathematical idiom of the time, replacing calculations with infinitesimals by equivalent geometrical arguments which were considered beyond reproach. He used the methods of calculus to solve the problem of planetary motion, the shape of the surface of a rotating fluid, the oblateness of the earth, the motion of a weight sliding on a cycloid, and many other problems discussed in his Principia Mathematica (1687). In other work, he developed series expansions for functions, including fractional and irrational powers, and it was clear that he understood the principles of the Taylor series. He did not publish all these discoveries, and at this time infinitesimal methods were still considered disreputable.
-
-These ideas were arranged into a true calculus of infinitesimals by Gottfried Wilhelm Leibniz, who was originally accused of plagiarism by Newton. He is now regarded as an independent inventor of and contributor to calculus. His contribution was to provide a clear set of rules for working with infinitesimal quantities, allowing the computation of second and higher derivatives, and providing the product rule and chain rule, in their differential and integral forms. Unlike Newton, Leibniz put painstaking effort into his choices of notation.Today, Leibniz and Newton are usually both given credit for independently inventing and developing calculus. Newton was the first to apply calculus to general physics and Leibniz developed much of the notation used in calculus today.: 51–52  The basic insights that both Newton and Leibniz provided were the laws of differentiation and integration, emphasizing that differentiation and integration are inverse processes, second and higher derivatives, and the notion of an approximating polynomial series.
-When Newton and Leibniz first published their results, there was great controversy over which mathematician (and therefore which country) deserved credit. Newton derived his results first (later to be published in his Method of Fluxions), but Leibniz published his "Nova Methodus pro Maximis et Minimis" first. Newton claimed Leibniz stole ideas from his unpublished notes, which Newton had shared with a few members of the Royal Society. This controversy divided English-speaking mathematicians from continental European mathematicians for many years, to the detriment of English mathematics. A careful examination of the papers of Leibniz and Newton shows that they arrived at their results independently, with Leibniz starting first with integration and Newton with differentiation. It is Leibniz, however, who gave the new discipline its name. Newton called his calculus "the science of fluxions", a term that endured in English schools into the 19th century.: 100  The first complete treatise on calculus to be written in English and use the Leibniz notation was not published until 1815.Since the time of Leibniz and Newton, many mathematicians have contributed to the continuing development of calculus. One of the first and most complete works on both infinitesimal and integral calculus was written in 1748 by Maria Gaetana Agnesi.
-
-
-=== Foundations ===
-In calculus, foundations refers to the rigorous development of the subject from axioms and definitions.  In early calculus the use of infinitesimal quantities was thought unrigorous, and was fiercely criticized by a number of authors, most notably Michel Rolle and Bishop Berkeley. Berkeley famously described infinitesimals as the ghosts of departed quantities in his book The Analyst in 1734.  Working out a rigorous foundation for calculus occupied mathematicians for much of the century following Newton and Leibniz, and is still to some extent an active area of research today.Several mathematicians, including Maclaurin, tried to prove the soundness of using infinitesimals, but it would not be until 150 years later when, due to the work of Cauchy and Weierstrass, a way was finally found to avoid mere "notions" of infinitely small quantities. The foundations of differential and integral calculus had been laid. In Cauchy's Cours d'Analyse, we find a broad range of foundational approaches, including a definition of continuity in terms of infinitesimals, and a (somewhat imprecise) prototype of an (ε, δ)-definition of limit in the definition of differentiation. In his work Weierstrass formalized the concept of limit and eliminated infinitesimals (although his definition can actually validate nilsquare infinitesimals). Following the work of Weierstrass, it eventually became common to base calculus on limits instead of infinitesimal quantities, though the subject is still occasionally called "infinitesimal calculus". Bernhard Riemann used these ideas to give a precise definition of the integral. It was also during this period that the ideas of calculus were generalized to the complex plane with the development of complex analysis.In modern mathematics, the foundations of calculus are included in the field of real analysis, which contains full definitions and proofs of the theorems of calculus.  The reach of calculus has also been greatly extended. Henri Lebesgue invented measure theory, based on earlier developments by Émile Borel, and used it to define integrals of all but the most pathological functions. Laurent Schwartz introduced distributions, which can be used to take the derivative of any function whatsoever.Limits are not the only rigorous approach to the foundation of calculus. Another way is to use Abraham Robinson's non-standard analysis. Robinson's approach, developed in the 1960s, uses technical machinery from mathematical logic to augment the real number system with infinitesimal and infinite numbers, as in the original Newton-Leibniz conception. The resulting numbers are called hyperreal numbers, and they can be used to give a Leibniz-like development of the usual rules of calculus. There is also smooth infinitesimal analysis, which differs from non-standard analysis in that it mandates neglecting higher-power infinitesimals during derivations. Based on the ideas of F. W. Lawvere and employing the methods of category theory, smooth infinitesimal analysis views all functions as being continuous and incapable of being expressed in terms of discrete entities. One aspect of this formulation is that the law of excluded middle does not hold. The law of excluded middle is also rejected in constructive mathematics, a branch of mathematics that insists that proofs of the existence of a number, function, or other mathematical object should give a construction of the object. Reformulations of calculus in a constructive framework are generally part of the subject of constructive analysis.
-
-
-=== Significance ===
-While many of the ideas of calculus had been developed earlier in Greece, China, India, Iraq, Persia, and Japan, the use of calculus began in Europe, during the 17th century, when Newton and Leibniz built on the work of earlier mathematicians to introduce its basic principles. The Hungarian polymath John von Neumann wrote of this work,
-
-The calculus was the first achievement of modern mathematics and it is difficult to overestimate its importance. I think it defines more unequivocally than anything else the inception of modern mathematics, and the system of mathematical analysis, which is its logical development, still constitutes the greatest technical advance in exact thinking.
-Applications of differential calculus include computations involving velocity and acceleration, the slope of a curve, and optimization.: 341–453  Applications of integral calculus include computations involving area, volume, arc length, center of mass, work, and pressure.: 685–700  More advanced applications include power series and Fourier series.
-Calculus is also used to gain a more precise understanding of the nature of space, time, and motion. For centuries, mathematicians and philosophers wrestled with paradoxes involving division by zero or sums of infinitely many numbers. These questions arise in the study of motion and area. The ancient Greek philosopher Zeno of Elea gave several famous examples of such paradoxes. Calculus provides tools, especially the limit and the infinite series, that resolve the paradoxes.
-
-
-== Principles ==
-
-
-=== Limits and infinitesimals ===
-
-Calculus is usually developed by working with very small quantities. Historically, the first method of doing so was by infinitesimals. These are objects which can be treated like real numbers but which are, in some sense, "infinitely small".  For example, an infinitesimal number could be greater than 0, but less than any number in the sequence 1, 1/2, 1/3, ... and thus less than any positive real number. From this point of view, calculus is a collection of techniques for manipulating infinitesimals. The symbols 
-  
-    
-      
-        d
-        x
-      
-    
-    {\displaystyle dx}
-   and 
-  
-    
-      
-        d
-        y
-      
-    
-    {\displaystyle dy}
-   were taken to be infinitesimal, and the derivative 
-  
-    
-      
-        d
-        y
-        
-          /
-        
-        d
-        x
-      
-    
-    {\displaystyle dy/dx}
-   was their ratio.The infinitesimal approach fell out of favor in the 19th century because it was difficult to make the notion of an infinitesimal precise. In the late 19th century, infinitesimals were replaced within academia by the epsilon, delta approach to limits. Limits describe the behavior of a function at a certain input in terms of its values at nearby inputs. They capture small-scale behavior using the intrinsic structure of the real number system (as a metric space with the least-upper-bound property). In this treatment, calculus is a collection of techniques for manipulating certain limits. Infinitesimals get replaced by sequences of smaller and smaller numbers, and the infinitely small behavior of a function is found by taking the limiting behavior for these sequences. Limits were thought to provide a more rigorous foundation for calculus, and for this reason they became the standard approach during the 20th century. However, the infinitesimal concept was revived in the 20th century with the introduction of non-standard analysis and smooth infinitesimal analysis, which provided solid foundations for the manipulation of infinitesimals.
-
-
-=== Differential calculus ===
-
-Differential calculus is the study of the definition, properties, and applications of the derivative of a function. The process of finding the derivative is called differentiation. Given a function and a point in the domain, the derivative at that point is a way of encoding the small-scale behavior of the function near that point. By finding the derivative of a function at every point in its domain, it is possible to produce a new function, called the derivative function or just the derivative of the original function. In formal terms, the derivative is a linear operator which takes a function as its input and produces a second function as its output. This is more abstract than many of the processes studied in elementary algebra, where functions usually input a number and output another number. For example, if the doubling function is given the input three, then it outputs six, and if the squaring function is given the input three, then it outputs nine. The derivative, however, can take the squaring function as an input. This means that the derivative takes all the information of the squaring function—such as that two is sent to four, three is sent to nine, four is sent to sixteen, and so on—and uses this information to produce another function. The function produced by differentiating the squaring function turns out to be the doubling function.: 32 In more explicit terms the "doubling function" may be denoted by g(x) = 2x and the "squaring function" by f(x) = x2. The "derivative" now takes the function f(x), defined by the expression "x2", as an input, that is all the information—such as that two is sent to four, three is sent to nine, four is sent to sixteen, and so on—and uses this information to output another function, the function g(x) = 2x, as will turn out.
-In Lagrange's notation, the symbol for a derivative is an apostrophe-like mark called a prime. Thus, the derivative of a function called f is denoted by f′, pronounced "f prime" or "f dash". For instance, if f(x) = x2 is the squaring function, then f′(x) = 2x is its derivative (the doubling function g from above).
-If the input of the function represents time, then the derivative represents change with respect to time. For example, if f is a function that takes a time as input and gives the position of a ball at that time as output, then the derivative of f is how the position is changing in time, that is, it is the velocity of the ball.: 18–20 If a function is linear (that is, if the graph of the function is a straight line), then the function can be written as y = mx + b, where x is the independent variable, y is the dependent variable, b is the y-intercept, and:
+The reaction cross section (σ) is a measure of the probability of a fusion reaction as a function of the relative velocity of the two reactant nuclei. If the reactants have a distribution of velocities, e.g. a thermal distribution, then it is useful to perform an average over the distributions of the product of cross-section and velocity. This average is called the 'reactivity', denoted ⟨σv⟩. The reaction rate (fusions per volume per time) is ⟨σv⟩ times the product of the reactant number densities:
 
   
     
       
-        m
+        f
         =
         
+          n
           
-            rise
-            run
-          
-        
-        =
-        
-          
-            
-              
-                change in 
-              
-              y
-            
-            
-              
-                change in 
-              
-              x
-            
-          
-        
-        =
-        
-          
-            
-              Δ
-              y
-            
-            
-              Δ
-              x
-            
-          
-        
-        .
-      
-    
-    {\displaystyle m={\frac {\text{rise}}{\text{run}}}={\frac {{\text{change in }}y}{{\text{change in }}x}}={\frac {\Delta y}{\Delta x}}.}
-  This gives an exact value for the slope of a straight line.: 6  If the graph of the function is not a straight line, however, then the change in y divided by the change in x varies. Derivatives give an exact meaning to the notion of change in output with respect to change in input. To be concrete, let f be a function, and fix a point a in the domain of f. (a, f(a)) is a point on the graph of the function. If h is a number close to zero, then a + h is a number close to a. Therefore, (a + h, f(a + h)) is close to (a, f(a)). The slope between these two points is
-
-  
-    
-      
-        m
-        =
-        
-          
-            
-              f
-              (
-              a
-              +
-              h
-              )
-              −
-              f
-              (
-              a
-              )
-            
-            
-              (
-              a
-              +
-              h
-              )
-              −
-              a
-            
-          
-        
-        =
-        
-          
-            
-              f
-              (
-              a
-              +
-              h
-              )
-              −
-              f
-              (
-              a
-              )
-            
-            h
-          
-        
-        .
-      
-    
-    {\displaystyle m={\frac {f(a+h)-f(a)}{(a+h)-a}}={\frac {f(a+h)-f(a)}{h}}.}
-  This expression is called a difference quotient. A line through two points on a curve is called a secant line, so m is the slope of the secant line between (a, f(a)) and (a + h, f(a + h)). The secant line is only an approximation to the behavior of the function at the point a because it does not account for what happens between a and a + h. It is not possible to discover the behavior at a by setting h to zero because this would require dividing by zero, which is undefined. The derivative is defined by taking the limit as h tends to zero, meaning that it considers the behavior of f for all small values of h and extracts a consistent value for the case when h equals zero:
-
-  
-    
-      
-        
-          lim
-          
-            h
-            →
-            0
+            1
           
         
         
-          
-            
-              f
-              (
-              a
-              +
-              h
-              )
-              −
-              f
-              (
-              a
-              )
-            
-            
-              h
-            
-          
-        
-        .
-      
-    
-    {\displaystyle \lim _{h\to 0}{f(a+h)-f(a) \over {h}}.}
-  Geometrically, the derivative is the slope of the tangent line to the graph of f at a. The tangent line is a limit of secant lines just as the derivative is a limit of difference quotients. For this reason, the derivative is sometimes called the slope of the function f.: 61–63 Here is a particular example, the derivative of the squaring function at the input 3. Let f(x) = x2 be the squaring function.
-
-  
-    
-      
-        
-          
-            
-              
-                
-                  f
-                  ′
-                
-                (
-                3
-                )
-              
-              
-                
-                =
-                
-                  lim
-                  
-                    h
-                    →
-                    0
-                  
-                
-                
-                  
-                    
-                      (
-                      3
-                      +
-                      h
-                      
-                        )
-                        
-                          2
-                        
-                      
-                      −
-                      
-                        3
-                        
-                          2
-                        
-                      
-                    
-                    
-                      h
-                    
-                  
-                
-              
-            
-            
-              
-              
-                
-                =
-                
-                  lim
-                  
-                    h
-                    →
-                    0
-                  
-                
-                
-                  
-                    
-                      9
-                      +
-                      6
-                      h
-                      +
-                      
-                        h
-                        
-                          2
-                        
-                      
-                      −
-                      9
-                    
-                    
-                      h
-                    
-                  
-                
-              
-            
-            
-              
-              
-                
-                =
-                
-                  lim
-                  
-                    h
-                    →
-                    0
-                  
-                
-                
-                  
-                    
-                      6
-                      h
-                      +
-                      
-                        h
-                        
-                          2
-                        
-                      
-                    
-                    
-                      h
-                    
-                  
-                
-              
-            
-            
-              
-              
-                
-                =
-                
-                  lim
-                  
-                    h
-                    →
-                    0
-                  
-                
-                (
-                6
-                +
-                h
-                )
-              
-            
-            
-              
-              
-                
-                =
-                6
-              
-            
-          
-        
-      
-    
-    {\displaystyle {\begin{aligned}f'(3)&=\lim _{h\to 0}{(3+h)^{2}-3^{2} \over {h}}\\&=\lim _{h\to 0}{9+6h+h^{2}-9 \over {h}}\\&=\lim _{h\to 0}{6h+h^{2} \over {h}}\\&=\lim _{h\to 0}(6+h)\\&=6\end{aligned}}}
-  The slope of the tangent line to the squaring function at the point (3, 9) is 6, that is to say, it is going up six times as fast as it is going to the right. The limit process just described can be performed for any point in the domain of the squaring function. This defines the derivative function of the squaring function or just the derivative of the squaring function for short. A computation similar to the one above shows that the derivative of the squaring function is the doubling function.: 63 
-
-
-=== Leibniz notation ===
-
-A common notation, introduced by Leibniz, for the derivative in the example above is
-
-  
-    
-      
-        
-          
-            
-              
-                y
-              
-              
-                
-                =
-                
-                  x
-                  
-                    2
-                  
-                
-              
-            
-            
-              
-                
-                  
-                    
-                      d
-                      y
-                    
-                    
-                      d
-                      x
-                    
-                  
-                
-              
-              
-                
-                =
-                2
-                x
-                .
-              
-            
-          
-        
-      
-    
-    {\displaystyle {\begin{aligned}y&=x^{2}\\{\frac {dy}{dx}}&=2x.\end{aligned}}}
-  In an approach based on limits, the symbol dy/dx is to be interpreted not as the quotient of two numbers but as a shorthand for the limit computed above.: 74  Leibniz, however, did intend it to represent the quotient of two infinitesimally small numbers, dy being the infinitesimally small change in y caused by an infinitesimally small change dx applied to x. We can also think of d/dx as a differentiation operator, which takes a function as an input and gives another function, the derivative, as the output. For example:
-
-  
-    
-      
-        
-          
-            d
-            
-              d
-              x
-            
-          
-        
-        (
-        
-          x
+          n
           
             2
           
         
-        )
-        =
-        2
-        x
+        ⟨
+        σ
+        v
+        ⟩
         .
       
     
-    {\displaystyle {\frac {d}{dx}}(x^{2})=2x.}
-  In this usage, the dx in the denominator is read as "with respect to x".: 79  Another example of correct notation could be:
-
+    {\displaystyle f=n_{1}n_{2}\langle \sigma v\rangle .}
+  If a species of nuclei is reacting with a nucleus like itself, such as the DD reaction, then the product 
   
     
       
         
-          
-            
-              
-                g
-                (
-                t
-                )
-              
-              
-                
-                =
-                
-                  t
-                  
-                    2
-                  
-                
-                +
-                2
-                t
-                +
-                4
-              
-            
-            
-              
-                
-                  
-                    d
-                    
-                      d
-                      t
-                    
-                  
-                
-                g
-                (
-                t
-                )
-              
-              
-                
-                =
-                2
-                t
-                +
-                2
-              
-            
-          
-        
-      
-    
-    {\displaystyle {\begin{aligned}g(t)&=t^{2}+2t+4\\{d \over dt}g(t)&=2t+2\end{aligned}}}
-  Even when calculus is developed using limits rather than infinitesimals, it is common to manipulate symbols like dx and dy as if they were real numbers; although it is possible to avoid such manipulations, they are sometimes notationally convenient in expressing operations such as the total derivative.
-
-
-=== Integral calculus ===
-
-Integral calculus is the study of the definitions, properties, and applications of two related concepts, the indefinite integral and the definite integral. The process of finding the value of an integral is called integration.: 508  The indefinite integral, also known as the antiderivative, is the inverse operation to the derivative.: 163–165  F is an indefinite integral of f when f is a derivative of F.  (This use of lower- and upper-case letters for a function and its indefinite integral is common in calculus.) The definite integral inputs a function and outputs a number, which gives the algebraic sum of areas between the graph of the input and the x-axis. The technical definition of the definite integral involves the limit of a sum of areas of rectangles, called a Riemann sum.: 282 A motivating example is the distance traveled in a given time.: 153  If the speed is constant, only multiplication is needed:
-
-  
-    
-      
-        
-          D
-          i
-          s
-          t
-          a
           n
-          c
-          e
+          
+            1
+          
+        
+        
+          n
+          
+            2
+          
+        
+      
+    
+    {\displaystyle n_{1}n_{2}}
+   must be replaced by 
+  
+    
+      
+        
+          n
+          
+            2
+          
+        
+        
+          /
+        
+        2
+      
+    
+    {\displaystyle n^{2}/2}
+  .
+
+  
+    
+      
+        ⟨
+        σ
+        v
+        ⟩
+      
+    
+    {\displaystyle \langle \sigma v\rangle }
+   increases from virtually zero at room temperatures up to meaningful magnitudes at temperatures of 10–100 keV. At these temperatures, well above typical ionization energies (13.6 eV in the hydrogen case), the fusion reactants exist in a plasma state.
+The significance of 
+  
+    
+      
+        ⟨
+        σ
+        v
+        ⟩
+      
+    
+    {\displaystyle \langle \sigma v\rangle }
+   as a function of temperature in a device with a particular energy confinement time is found by considering the Lawson criterion.  This is an extremely challenging barrier to overcome on Earth, which explains why fusion research has taken many years to reach the current advanced technical state.
+
+
+== Artificial fusion ==
+
+
+=== Thermonuclear fusion ===
+
+If matter is sufficiently heated (hence being plasma) and confined, fusion reactions may occur due to collisions with extreme thermal kinetic energies of the particles. Thermonuclear weapons produce what amounts to an uncontrolled release of fusion energy. Controlled thermonuclear fusion concepts use magnetic fields to confine the plasma.
+
+
+=== Inertial confinement fusion ===
+
+Inertial confinement fusion (ICF) is a method aimed at releasing fusion energy by heating and compressing a fuel target, typically a pellet containing deuterium and tritium.
+
+
+=== Inertial electrostatic confinement ===
+
+Inertial electrostatic confinement is a set of devices that use an electric field to heat ions to fusion conditions.  The most well known is the fusor.  Starting in 1999, a number of amateurs have been able to do amateur fusion using these homemade devices. Other IEC devices include: the Polywell, MIX POPS and Marble concepts.
+
+
+=== Beam–beam or beam–target fusion ===
+
+Accelerator-based light-ion fusion is a technique using particle accelerators to achieve particle kinetic energies sufficient to induce light-ion fusion reactions. Accelerating light ions is relatively easy, and can be done in an efficient manner—requiring only a vacuum tube, a pair of electrodes, and a high-voltage transformer; fusion can be observed with as little as 10 kV between the electrodes. The system can be arranged to accelerate ions into a static fuel-infused target, known as beam–target fusion, or by accelerating two streams of ions towards each other, beam–beam fusion.
+The key problem with accelerator-based fusion (and with cold targets in general) is that fusion cross sections are many orders of magnitude lower than Coulomb interaction cross-sections. Therefore, the vast majority of ions expend their energy emitting bremsstrahlung radiation and the ionization of atoms of the target. Devices referred to as sealed-tube neutron generators are particularly relevant to this discussion. These small devices are miniature particle accelerators filled with deuterium and tritium gas in an arrangement that allows ions of those nuclei to be accelerated against hydride targets, also containing deuterium and tritium, where fusion takes place, releasing a flux of neutrons. Hundreds of neutron generators are produced annually for use in the petroleum industry where they are used in measurement equipment for locating and mapping oil reserves.
+A number of attempts to recirculate the ions that "miss" collisions have been made over the years. One of the better-known attempts in the 1970s was Migma, which used a unique particle storage ring to capture ions into circular orbits and return them to the reaction area. Theoretical calculations made during funding reviews pointed out that the system would have significant difficulty scaling up to contain enough fusion fuel to be relevant as a power source. In the 1990s, a new arrangement using a field-reverse configuration (FRC) as the storage system was proposed by Norman Rostoker and continues to be studied by TAE Technologies as of 2021. A closely related approach is to merge two FRC's rotating in opposite directions, which is being actively studied by Helion Energy. Because these approaches all have ion energies well beyond the Coulomb barrier, they often suggest the use of alternative fuel cycles like p-11B that are too difficult to attempt using conventional approaches.
+
+
+=== Muon-catalyzed fusion ===
+Muon-catalyzed fusion is a fusion process that occurs at ordinary temperatures. It was studied in detail by Steven Jones in the early 1980s. Net energy production from this reaction has been unsuccessful because of the high energy required to create muons, their short 2.2 µs half-life, and the high chance that a muon will bind to the new alpha particle and thus stop catalyzing fusion.
+
+
+=== Other principles ===
+
+Some other confinement principles have been investigated.
+
+Antimatter-initialized fusion uses small amounts of antimatter to trigger a tiny fusion explosion. This has been studied primarily in the context of making nuclear pulse propulsion, and pure fusion bombs feasible. This is not near becoming a practical power source, due to the cost of manufacturing antimatter alone.
+Pyroelectric fusion was reported in April 2005 by a team at UCLA. The scientists used a pyroelectric crystal heated from −34 to 7 °C (−29 to 45 °F), combined with a tungsten needle to produce an electric field of about 25 gigavolts per meter to ionize and accelerate deuterium nuclei into an erbium deuteride target.  At the estimated energy levels, the D–D fusion reaction may occur, producing helium-3 and a 2.45 MeV neutron. Although it makes a useful neutron generator, the apparatus is not intended for power generation since it requires far more energy than it produces. D–T fusion reactions have been observed with a tritiated erbium target.
+Nuclear fusion–fission hybrid (hybrid nuclear power) is a proposed means of generating power by use of a combination of nuclear fusion and fission processes. The concept dates to the 1950s, and was briefly advocated by Hans Bethe during the 1970s, but largely remained unexplored until a revival of interest in 2009, due to the delays in the realization of pure fusion.
+Project PACER, carried out at Los Alamos National Laboratory (LANL) in the mid-1970s, explored the possibility of a fusion power system that would involve exploding small hydrogen bombs (fusion bombs) inside an underground cavity. As an energy source, the system is the only fusion power system that could be demonstrated to work using existing technology. However it would also require a large, continuous supply of nuclear bombs, making the economics of such a system rather questionable.
+Bubble fusion also called sonofusion was a proposed mechanism for achieving fusion via sonic cavitation which rose to prominence in the early 2000s. Subsequent attempts at replication failed and the principal investigator, Rusi Taleyarkhan, was judged guilty of research misconduct in 2008.
+
+
+== Important reactions ==
+
+
+=== Stellar reaction chains ===
+At the temperatures and densities in stellar cores, the rates of fusion reactions are notoriously slow. For example, at solar core temperature (T ≈ 15 MK) and density (160 g/cm3), the energy release rate is only 276 μW/cm3—about a quarter of the volumetric rate at which a resting human body generates heat. Thus, reproduction of stellar core conditions in a lab for nuclear fusion power production is completely impractical. Because nuclear reaction rates depend on density as well as temperature and most fusion schemes operate at relatively low densities, those methods are strongly dependent on higher temperatures. The fusion rate as a function of temperature (exp(−E/kT)), leads to the need to achieve temperatures in terrestrial reactors 10–100 times higher than in stellar interiors: T ≈ (0.1–1.0)×109 K.
+
+
+=== Criteria and candidates for terrestrial reactions ===
+
+In artificial fusion, the primary fuel is not constrained to be protons and higher temperatures can be used, so reactions with larger cross-sections are chosen. Another concern is the production of neutrons, which activate the reactor structure radiologically, but also have the advantages of allowing volumetric extraction of the fusion energy and tritium breeding. Reactions that release no neutrons are referred to as aneutronic.
+To be a useful energy source, a fusion reaction must satisfy several criteria. It must:
+
+Be exothermic
+This limits the reactants to the low Z (number of protons) side of the curve of binding energy. It also makes helium 4He the most common product because of its extraordinarily tight binding, although 3He and 3H also show up.
+Involve low atomic number (Z) nuclei
+This is because the electrostatic repulsion that must be overcome before the nuclei are close enough to fuse is directly related to the number of protons it contains – its atomic number.
+Have two reactants
+At anything less than stellar densities, three-body collisions are too improbable. In inertial confinement, both stellar densities and temperatures are exceeded to compensate for the shortcomings of the third parameter of the Lawson criterion, ICF's very short confinement time.
+Have two or more products
+This allows simultaneous conservation of energy and momentum without relying on the electromagnetic force.
+Conserve both protons and neutrons
+The cross sections for the weak interaction are too small.Few reactions meet these criteria. The following are those with the largest cross sections:
+For reactions with two products, the energy is divided between them in inverse proportion to their masses, as shown. In most reactions with three products, the distribution of energy varies. For reactions that can result in more than one set of products, the branching ratios are given.
+Some reaction candidates can be eliminated at once. The D–6Li reaction has no advantage compared to p+–115B because it is roughly as difficult to burn but produces substantially more neutrons through 21D–21D side reactions. There is also a p+–73Li reaction, but the cross section is far too low, except possibly when Ti > 1 MeV, but at such high temperatures an endothermic, direct neutron-producing reaction also becomes very significant. Finally there is also a p+–94Be reaction, which is not only difficult to burn, but 94Be can be easily induced to split into two alpha particles and a neutron.
+In addition to the fusion reactions, the following reactions with neutrons are important in order to "breed" tritium in "dry" fusion bombs and some proposed fusion reactors:
+
+The latter of the two equations was unknown when the U.S. conducted the Castle Bravo fusion bomb test in 1954. Being just the second fusion bomb ever tested (and the first to use lithium), the designers of the Castle Bravo "Shrimp" had understood the usefulness of 6Li in tritium production, but had failed to recognize that 7Li fission would greatly increase the yield of the bomb. While 7Li has a small neutron cross-section for low neutron energies, it has a higher cross section above 5 MeV. The 15 Mt yield was 150% greater than the predicted 6 Mt and caused unexpected exposure to fallout.
+To evaluate the usefulness of these reactions, in addition to the reactants, the products, and the energy released, one needs to know something about the nuclear cross section. Any given fusion device has a maximum plasma pressure it can sustain, and an economical device would always operate near this maximum. Given this pressure, the largest fusion output is obtained when the temperature is chosen so that ⟨σv⟩/T2 is a maximum. This is also the temperature at which the value of the triple product nTτ required for ignition is a minimum, since that required value is inversely proportional to ⟨σv⟩/T2 (see Lawson criterion). (A plasma is "ignited" if the fusion reactions produce enough power to maintain the temperature without external heating.) This optimum temperature and the value of ⟨σv⟩/T2 at that temperature is given for a few of these reactions in the following table.
+
+Note that many of the reactions form chains. For instance, a reactor fueled with 31T and 32He creates some 21D, which is then possible to use in the 21D–32He reaction if the energies are "right". An elegant idea is to combine the reactions (8) and (9). The 32He from reaction (8) can react with 63Li in reaction (9) before completely thermalizing. This produces an energetic proton, which in turn undergoes reaction (8) before thermalizing. Detailed analysis shows that this idea would not work well, but it is a good example of a case where the usual assumption of a Maxwellian plasma is not appropriate.
+
+
+=== Abundance of the nuclear fusion fuels ===
+
+
+=== Neutronicity, confinement requirement, and power density ===
+Any of the reactions above can in principle be the basis of fusion power production. In addition to the temperature and cross section discussed above, we must consider the total energy of the fusion products Efus, the energy of the charged fusion products Ech, and the atomic number Z of the non-hydrogenic reactant.
+Specification of the 21D–21D reaction entails some difficulties, though. To begin with, one must average over the two branches (2i) and (2ii). More difficult is to decide how to treat the 31T and 32He products. 31T burns so well in a deuterium plasma that it is almost impossible to extract from the plasma. The 21D–32He reaction is optimized at a much higher temperature, so the burnup at the optimum 21D–21D temperature may be low. Therefore, it seems reasonable to assume the 31T but not the 32He gets burned up and adds its energy to the net reaction, which means the total reaction would be the sum of (2i), (2ii), and (1):
+
+5 21D → 42He + 2 n0 + 32He + p+,  Efus = 4.03 + 17.6 + 3.27 = 24.9 MeV, Ech = 4.03 + 3.5 + 0.82 = 8.35 MeV.For calculating the power of a reactor (in which the reaction rate is determined by the D–D step), we count the 21D–21D fusion energy per D–D reaction as Efus = (4.03 MeV + 17.6 MeV) × 50% + (3.27 MeV) × 50% = 12.5 MeV and the energy in charged particles as Ech = (4.03 MeV + 3.5 MeV) × 50% + (0.82 MeV) × 50% = 4.2 MeV. (Note: if the tritium ion reacts with a deuteron while it still has a large kinetic energy, then the kinetic energy of the helium-4 produced may be quite different from 3.5 MeV, so this calculation of energy in charged particles is only an approximation of the average.) The amount of energy per deuteron consumed is 2/5 of this, or 5.0 MeV (a specific energy of about 225 million MJ per kilogram of deuterium).
+Another unique aspect of the 21D–21D reaction is that there is only one reactant, which must be taken into account when calculating the reaction rate.
+With this choice, we tabulate parameters for four of the most important reactions
+
+The last column is the neutronicity of the reaction, the fraction of the fusion energy released as neutrons. This is an important indicator of the magnitude of the problems associated with neutrons like radiation damage, biological shielding, remote handling, and safety. For the first two reactions it is calculated as (Efus − Ech)/Efus. For the last two reactions, where this calculation would give zero, the values quoted are rough estimates based on side reactions that produce neutrons in a plasma in thermal equilibrium.
+Of course, the reactants should also be mixed in the optimal proportions. This is the case when each reactant ion plus its associated electrons accounts for half the pressure. Assuming that the total pressure is fixed, this means that particle density of the non-hydrogenic ion is smaller than that of the hydrogenic ion by a factor 2/(Z + 1). Therefore, the rate for these reactions is reduced by the same factor, on top of any differences in the values of ⟨σv⟩/T2. On the other hand, because the 21D–21D reaction has only one reactant, its rate is twice as high as when the fuel is divided between two different hydrogenic species, thus creating a more efficient reaction.
+Thus there is a "penalty" of 2/(Z + 1) for non-hydrogenic fuels arising from the fact that they require more electrons, which take up pressure without participating in the fusion reaction. (It is usually a good assumption that the electron temperature will be nearly equal to the ion temperature. Some authors, however, discuss the possibility that the electrons could be maintained substantially colder than the ions. In such a case, known as a "hot ion mode", the "penalty" would not apply.) There is at the same time a "bonus" of a factor 2 for 21D–21D because each ion can react with any of the other ions, not just a fraction of them.
+We can now compare these reactions in the following table.
+
+The maximum value of ⟨σv⟩/T2 is taken from a previous table. The "penalty/bonus" factor is that related to a non-hydrogenic reactant or a single-species reaction. The values in the column "inverse reactivity" are found by dividing 1.24×10−24 by the product of the second and third columns. It indicates the factor by which the other reactions occur more slowly than the 21D–31T reaction under comparable conditions. The column "Lawson criterion" weights these results with Ech and gives an indication of how much more difficult it is to achieve ignition with these reactions, relative to the difficulty for the 21D–31T reaction. The next-to-last column is labeled "power density" and weights the practical reactivity by Efus. The final column indicates how much lower the fusion power density of the other reactions is compared to the 21D–31T reaction and can be considered a measure of the economic potential.
+
+
+=== Bremsstrahlung losses in quasineutral, isotropic plasmas ===
+The ions undergoing fusion in many systems will essentially never occur alone but will be mixed with electrons that in aggregate neutralize the ions' bulk electrical charge and form a plasma. The electrons will generally have a temperature comparable to or greater than that of the ions, so they will collide with the ions and emit x-ray radiation of 10–30 keV energy, a process known as Bremsstrahlung.
+The huge size of the Sun and stars means that the x-rays produced in this process will not escape and will deposit their energy back into the plasma. They are said to be opaque to x-rays. But any terrestrial fusion reactor will be optically thin for x-rays of this energy range. X-rays are difficult to reflect but they are effectively absorbed (and converted into heat) in less than mm thickness of stainless steel (which is part of a reactor's shield). This means the bremsstrahlung process is carrying energy out of the plasma, cooling it.
+The ratio of fusion power produced to x-ray radiation lost to walls is an important figure of merit. This ratio is generally maximized at a much higher temperature than that which maximizes the power density (see the previous subsection). The following table shows estimates of the optimum temperature and the power ratio at that temperature for several reactions:
+
+The actual ratios of fusion to Bremsstrahlung power will likely be significantly lower for several reasons. For one, the calculation assumes that the energy of the fusion products is transmitted completely to the fuel ions, which then lose energy to the electrons by collisions, which in turn lose energy by Bremsstrahlung. However, because the fusion products move much faster than the fuel ions, they will give up a significant fraction of their energy directly to the electrons. Secondly, the ions in the plasma are assumed to be purely fuel ions. In practice, there will be a significant proportion of impurity ions, which will then lower the ratio. In particular, the fusion products themselves must remain in the plasma until they have given up their energy, and will remain for some time after that in any proposed confinement scheme. Finally, all channels of energy loss other than Bremsstrahlung have been neglected. The last two factors are related. On theoretical and experimental grounds, particle and energy confinement seem to be closely related. In a confinement scheme that does a good job of retaining energy, fusion products will build up. If the fusion products are efficiently ejected, then energy confinement will be poor, too.
+The temperatures maximizing the fusion power compared to the Bremsstrahlung are in every case higher than the temperature that maximizes the power density and minimizes the required value of the fusion triple product. This will not change the optimum operating point for 21D–31T very much because the Bremsstrahlung fraction is low, but it will push the other fuels into regimes where the power density relative to 21D–31T is even lower and the required confinement even more difficult to achieve. For 21D–21D and 21D–32He, Bremsstrahlung losses will be a serious, possibly prohibitive problem. For 32He–32He, p+–63Li and p+–115B the Bremsstrahlung losses appear to make a fusion reactor using these fuels with a quasineutral, isotropic plasma impossible. Some ways out of this dilemma have been considered but rejected. This limitation does not apply to non-neutral and anisotropic plasmas; however, these have their own challenges to contend with.
+
+
+== Mathematical description of cross section ==
+
+
+=== Fusion under classical physics ===
+In a classical picture, nuclei can be understood as hard spheres that repel each other through the Coulomb force but fuse once the two spheres come close enough for contact. Estimating the radius of an atomic nuclei as about one femtometer, the energy needed for fusion of two hydrogen is:
+
+  
+    
+      
+        
+          E
+          
+            thresh
+          
         
         =
         
+          
+            1
+            
+              4
+              π
+              
+                ϵ
+                
+                  0
+                
+              
+            
+          
+        
+        
+          
+            
+              
+                Z
+                
+                  1
+                
+              
+              
+                Z
+                
+                  2
+                
+              
+            
+            r
+          
+        
+        
+          
+            
+              →
+              
+                
+                  2 protons
+                
+              
+            
+          
+        
+        
+          
+            1
+            
+              4
+              π
+              
+                ϵ
+                
+                  0
+                
+              
+            
+          
+        
+        
+          
+            
+              e
+              
+                2
+              
+            
+            
+              1
+               
+              
+                fm
+              
+            
+          
+        
+        ≈
+        1.4
+         
+        
+          MeV
+        
+      
+    
+    {\displaystyle E_{\ce {thresh}}={\frac {1}{4\pi \epsilon _{0}}}{\frac {Z_{1}Z_{2}}{r}}{\ce {->[{\text{2 protons}}]}}{\frac {1}{4\pi \epsilon _{0}}}{\frac {e^{2}}{1\ {\ce {fm}}}}\approx 1.4\ {\ce {MeV}}}
+  This would imply that for the core of the sun, which has a Boltzmann distribution with a temperature of around 1.4 keV, the probability hydrogen would reach the threshold is 
+  
+    
+      
+        
+          10
+          
+            −
+            290
+          
+        
+      
+    
+    {\displaystyle 10^{-290}}
+  , that is, fusion would never occur. However, fusion in the sun does occur due to quantum mechanics.
+
+
+=== Parameterization of cross section ===
+The probability that fusion occurs is greatly increased compared to the classical picture, thanks to the smearing of the effective radius as the de Broglie wavelength as well as quantum tunneling through the potential barrier. To determine the rate of fusion reactions, the value of most interest is the cross section, which describes the probability that particles will fuse by giving a characteristic area of interaction.  An estimation of the fusion cross-sectional area is often broken into three pieces:
+
+  
+    
+      
+        σ
+        ≈
+        
+          σ
+          
+            geometry
+          
+        
+        ×
+        T
+        ×
+        R
+        ,
+      
+    
+    {\displaystyle \sigma \approx \sigma _{\text{geometry}}\times T\times R,}
+  where 
+  
+    
+      
+        
+          σ
+          
+            geometry
+          
+        
+      
+    
+    {\displaystyle \sigma _{\text{geometry}}}
+   is the geometric cross section, T is the barrier transparency and R is the reaction characteristics of the reaction.
+
+  
+    
+      
+        
+          σ
+          
+            geometry
+          
+        
+      
+    
+    {\displaystyle \sigma _{\text{geometry}}}
+   is of the order of the square of the de Broglie wavelength 
+  
+    
+      
+        
+          σ
+          
+            geometry
+          
+        
+        ≈
+        
+          λ
+          
+            2
+          
+        
+        =
+        
+          
+            (
+          
+        
+        
+          
+            ℏ
+            
+              
+                m
+                
+                  r
+                
+              
+              v
+            
+          
+        
+        
+          
+            
+              )
+            
+          
+          
+            2
+          
+        
+        ∝
+        
+          
+            1
+            ϵ
+          
+        
+      
+    
+    {\displaystyle \sigma _{\text{geometry}}\approx \lambda ^{2}={\bigg (}{\frac {\hbar }{m_{r}v}}{\bigg )}^{2}\propto {\frac {1}{\epsilon }}}
+   where 
+  
+    
+      
+        
+          m
+          
+            r
+          
+        
+      
+    
+    {\displaystyle m_{r}}
+   is the reduced mass of the system and 
+  
+    
+      
+        ϵ
+      
+    
+    {\displaystyle \epsilon }
+   is the center of mass energy of the system.
+T can be approximated by the Gamow transparency, which has the form: 
+  
+    
+      
+        T
+        ≈
+        
+          e
+          
+            −
+            
+              
+                
+                  ϵ
+                  
+                    G
+                  
+                
+                
+                  /
+                
+                ϵ
+              
+            
+          
+        
+      
+    
+    {\displaystyle T\approx e^{-{\sqrt {\epsilon _{G}/\epsilon }}}}
+   where 
+  
+    
+      
+        
+          ϵ
+          
+            G
+          
+        
+        =
+        (
+        π
+        α
+        
+          Z
+          
+            1
+          
+        
+        
+          Z
+          
+            2
+          
+        
+        
+          )
+          
+            2
+          
+        
+        ×
+        2
+        
+          m
+          
+            r
+          
+        
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \epsilon _{G}=(\pi \alpha Z_{1}Z_{2})^{2}\times 2m_{r}c^{2}}
+   is the Gamow factor and comes from estimating the quantum tunneling probability through the potential barrier.
+R contains all the nuclear physics of the specific reaction and takes very different values depending on the nature of the interaction. However, for most reactions, the variation of 
+  
+    
+      
+        R
+        (
+        ϵ
+        )
+      
+    
+    {\displaystyle R(\epsilon )}
+   is small compared to the variation from the Gamow factor and so is approximated by a function called the astrophysical S-factor, 
+  
+    
+      
+        S
+        (
+        ϵ
+        )
+      
+    
+    {\displaystyle S(\epsilon )}
+  , which is weakly varying in energy. Putting these dependencies together, one approximation for the fusion cross section as a function of energy takes the form:
+
+  
+    
+      
+        σ
+        (
+        ϵ
+        )
+        ≈
+        
+          
+            
+              S
+              (
+              ϵ
+              )
+            
+            ϵ
+          
+        
+        
+          e
+          
+            −
+            
+              
+                
+                  ϵ
+                  
+                    G
+                  
+                
+                
+                  /
+                
+                ϵ
+              
+            
+          
+        
+      
+    
+    {\displaystyle \sigma (\epsilon )\approx {\frac {S(\epsilon )}{\epsilon }}e^{-{\sqrt {\epsilon _{G}/\epsilon }}}}
+  More detailed forms of the cross-section can be derived through nuclear physics-based models and R-matrix theory.
+
+
+=== Formulas of fusion cross sections ===
+The Naval Research Lab's plasma physics formulary gives the total cross section in barns as a function of the energy (in keV) of the incident particle towards a target ion at rest fit by the formula:
+
+  
+    
+      
+        
+          σ
+          
+            NRL
+          
+        
+        (
+        ϵ
+        )
+        =
+        
+          
+            
+              
+                A
+                
+                  5
+                
+              
+              +
+              
+                
+                  (
+                
+              
+              (
+              
+                A
+                
+                  4
+                
+              
+              −
+              
+                A
+                
+                  3
+                
+              
+              ϵ
+              
+                )
+                
+                  2
+                
+              
+              +
+              1
+              
+                
+                  
+                    )
+                  
+                
+                
+                  −
+                  1
+                
+              
+              
+                A
+                
+                  2
+                
+              
+            
+            
+              ϵ
+              (
+              
+                e
+                
+                  
+                    A
+                    
+                      1
+                    
+                  
+                  
+                    ϵ
+                    
+                      −
+                      1
+                      
+                        /
+                      
+                      2
+                    
+                  
+                
+              
+              −
+              1
+              )
+            
+          
+        
+      
+    
+    {\displaystyle \sigma ^{\text{NRL}}(\epsilon )={\frac {A_{5}+{\big (}(A_{4}-A_{3}\epsilon )^{2}+1{\big )}^{-1}A_{2}}{\epsilon (e^{A_{1}\epsilon ^{-1/2}}-1)}}}
+   with the following coefficient values:Bosch-Hale also reports a R-matrix calculated cross sections fitting observation data with Padé rational approximating coefficients. With energy in units of keV and cross sections in units of millibarn, the factor has the form:
+
+  
+    
+      
+        
           S
-          p
-          e
-          e
-          d
+          
+            Bosch-Hale
+          
+        
+        (
+        ϵ
+        )
+        =
+        
+          
+            
+              
+                A
+                
+                  1
+                
+              
+              +
+              ϵ
+              
+                
+                  (
+                
+              
+              
+                A
+                
+                  2
+                
+              
+              +
+              ϵ
+              
+                
+                  (
+                
+              
+              
+                A
+                
+                  3
+                
+              
+              +
+              ϵ
+              (
+              
+                A
+                
+                  4
+                
+              
+              +
+              ϵ
+              
+                A
+                
+                  5
+                
+              
+              )
+              
+                
+                  )
+                
+              
+              
+                
+                  )
+                
+              
+            
+            
+              1
+              +
+              ϵ
+              
+                
+                  (
+                
+              
+              
+                B
+                
+                  1
+                
+              
+              +
+              ϵ
+              
+                
+                  (
+                
+              
+              
+                B
+                
+                  2
+                
+              
+              +
+              ϵ
+              (
+              
+                B
+                
+                  3
+                
+              
+              +
+              ϵ
+              
+                B
+                
+                  4
+                
+              
+              )
+              
+                
+                  )
+                
+              
+              
+                
+                  )
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle S^{\text{Bosch-Hale}}(\epsilon )={\frac {A_{1}+\epsilon {\bigg (}A_{2}+\epsilon {\big (}A_{3}+\epsilon (A_{4}+\epsilon A_{5}){\big )}{\bigg )}}{1+\epsilon {\bigg (}B_{1}+\epsilon {\big (}B_{2}+\epsilon (B_{3}+\epsilon B_{4}){\big )}{\bigg )}}}}
+  , with the coefficient values:where 
+  
+    
+      
+        
+          σ
+          
+            Bosch-Hale
+          
+        
+        (
+        ϵ
+        )
+        =
+        
+          
+            
+              
+                S
+                
+                  Bosch-Hale
+                
+              
+              (
+              ϵ
+              )
+            
+            
+              ϵ
+              exp
+              ⁡
+              (
+              
+                ϵ
+                
+                  G
+                
+              
+              
+                /
+              
+              
+                
+                  ϵ
+                
+              
+              )
+            
+          
+        
+      
+    
+    {\displaystyle \sigma ^{\text{Bosch-Hale}}(\epsilon )={\frac {S^{\text{Bosch-Hale}}(\epsilon )}{\epsilon \exp(\epsilon _{G}/{\sqrt {\epsilon }})}}}
+  
+
+
+=== Maxwell-averaged nuclear cross sections ===
+In fusion systems that are in thermal equilibrium, the particles are in a Maxwell–Boltzmann distribution, meaning the particles have a range of energies centered around the plasma temperature. The sun, magnetically confined plasmas and inertial confinement fusion systems are well modeled to be in thermal equilibrium. In these cases, the value of interest is the fusion cross-section averaged across the Maxwell–Boltzmann distribution. The Naval Research Lab's plasma physics formulary tabulates Maxwell averaged fusion cross sections reactivities in 
+  
+    
+      
+        
+          c
+          
+            m
+            
+              3
+            
+          
+          
+            /
+          
+          s
+        
+      
+    
+    {\displaystyle \mathrm {cm^{3}/s} }
+  .
+
+For energies 
+  
+    
+      
+        T
+        ≤
+        25
+        
+           keV
+        
+      
+    
+    {\displaystyle T\leq 25{\text{ keV}}}
+   the data can be represented by:
+
+  
+    
+      
+        (
+        
+          
+            
+              σ
+              v
+            
+            ¯
+          
+        
+        
+          )
+          
+            D
+            D
+          
+        
+        =
+        2.33
+        ×
+        
+          10
+          
+            −
+            14
+          
         
         ⋅
         
           T
-          i
-          m
-          e
-        
-      
-    
-    {\displaystyle \mathrm {Distance} =\mathrm {Speed} \cdot \mathrm {Time} }
-  But if the speed changes, a more powerful method of finding the distance is necessary. One such method is to approximate the distance traveled by breaking up the time into many short intervals of time, then multiplying the time elapsed in each interval by one of the speeds in that interval, and then taking the sum (a Riemann sum) of the approximate distance traveled in each interval. The basic idea is that if only a short time elapses, then the speed will stay more or less the same. However, a Riemann sum only gives an approximation of the distance traveled. We must take the limit of all such Riemann sums to find the exact distance traveled.
-When velocity is constant, the total distance traveled over the given time interval can be computed by multiplying velocity and time.  For example, travelling a steady 50 mph for 3 hours results in a total distance of 150 miles.  Plotting the velocity as a function of time yields a rectangle with height equal to the velocity and width equal to the time elapsed.  Therefore, the product of velocity and time also calculates the rectangular area under the (constant) velocity curve.: 535   This connection between the area under a curve and distance traveled can be extended to any irregularly shaped region exhibiting a fluctuating velocity over a given time period. If f(x) represents speed as it varies over time, the distance traveled between the times represented by a and b is the area of the region between f(x) and the x-axis, between x = a and x = b.
-To approximate that area, an intuitive method would be to divide up the distance between a and b into a number of equal segments, the length of each segment represented by the symbol Δx. For each small segment, we can choose one value of the function f(x). Call that value h. Then the area of the rectangle with base Δx and height h gives the distance (time Δx multiplied by speed h) traveled in that segment.   Associated with each segment is the average value of the function above it, f(x) = h. The sum of all such rectangles gives an approximation of the area between the axis and the curve, which is an approximation of the total distance traveled. A smaller value for Δx will give more rectangles and in most cases a better approximation, but for an exact answer we need to take a limit as Δx approaches zero.: 512–522 The symbol of integration is 
-  
-    
-      
-        ∫
-      
-    
-    {\displaystyle \int }
-  , an elongated S chosen to suggest summation.: 529  The definite integral is written as:
-
-  
-    
-      
-        
-          ∫
           
-            a
-          
-          
-            b
-          
-        
-        f
-        (
-        x
-        )
-        
-        d
-        x
-        .
-      
-    
-    {\displaystyle \int _{a}^{b}f(x)\,dx.}
-  and is read "the integral from a to b of f-of-x with respect to x." The Leibniz notation dx is intended to suggest dividing the area under the curve into an infinite number of rectangles, so that their width Δx becomes the infinitesimally small dx.: 44 The indefinite integral, or antiderivative, is written:
-
-  
-    
-      
-        ∫
-        f
-        (
-        x
-        )
-        
-        d
-        x
-        .
-      
-    
-    {\displaystyle \int f(x)\,dx.}
-  Functions differing by only a constant have the same derivative, and it can be shown that the antiderivative of a given function is actually a family of functions differing only by a constant.: 326  Since the derivative of the function y = x2 + C, where C is any constant, is y′ = 2x, the antiderivative of the latter is given by:
-
-  
-    
-      
-        ∫
-        2
-        x
-        
-        d
-        x
-        =
-        
-          x
-          
+            −
             2
-          
-        
-        +
-        C
-        .
-      
-    
-    {\displaystyle \int 2x\,dx=x^{2}+C.}
-  The unspecified constant C present in the indefinite integral or antiderivative is known as the constant of integration.: 135 
-
-
-=== Fundamental theorem ===
-
-The fundamental theorem of calculus states that differentiation and integration are inverse operations.: 290  More precisely, it relates the values of antiderivatives to definite integrals. Because it is usually easier to compute an antiderivative than to apply the definition of a definite integral, the fundamental theorem of calculus provides a practical way of computing definite integrals. It can also be interpreted as a precise statement of the fact that differentiation is the inverse of integration.
-The fundamental theorem of calculus states: If a function f is continuous on the interval [a, b] and if F is a function whose derivative is f on the interval (a, b), then
-
-  
-    
-      
-        
-          ∫
-          
-            a
-          
-          
-            b
-          
-        
-        f
-        (
-        x
-        )
-        
-        d
-        x
-        =
-        F
-        (
-        b
-        )
-        −
-        F
-        (
-        a
-        )
-        .
-      
-    
-    {\displaystyle \int _{a}^{b}f(x)\,dx=F(b)-F(a).}
-  Furthermore, for every x in the interval (a, b),
-
-  
-    
-      
-        
-          
-            d
             
-              d
-              x
+              /
+            
+            3
+          
+        
+        ⋅
+        
+          e
+          
+            −
+            18.76
+             
+            
+              T
+              
+                −
+                1
+                
+                  /
+                
+                3
+              
             
           
         
         
-          ∫
+           
           
-            a
+            
+              c
+              m
+            
+            
+              3
+            
           
           
-            x
+            /
           
+          s
         
-        f
-        (
-        t
-        )
-        
-        d
-        t
-        =
-        f
-        (
-        x
-        )
-        .
       
     
-    {\displaystyle {\frac {d}{dx}}\int _{a}^{x}f(t)\,dt=f(x).}
-  This realization, made by both Newton and Leibniz, was key to the proliferation of analytic results after their work became known. (The extent to which Newton and Leibniz were influenced by immediate predecessors, and particularly what Leibniz may have learned from the work of Isaac Barrow, is difficult to determine because of the priority dispute between them.) The fundamental theorem provides an algebraic method of computing many definite integrals—without performing limit processes—by finding formulae for antiderivatives. It is also a prototype solution of a differential equation. Differential equations relate an unknown function to its derivatives, and are ubiquitous in the sciences.: 351–352 
-
-
-== Applications ==
-
-Calculus is used in every branch of the physical sciences,: 1  actuarial science, computer science, statistics, engineering, economics, business, medicine, demography, and in other fields wherever a problem can be mathematically modeled and an optimal solution is desired. It allows one to go from (non-constant) rates of change to the total change or vice versa, and many times in studying a problem we know one and are trying to find the other. Calculus can be used in conjunction with other mathematical disciplines. For example, it can be used with linear algebra to find the "best fit" linear approximation for a set of points in a domain. Or, it can be used in probability theory to determine the expectation value of a continuous random variable given a probability density function.: 37  In analytic geometry, the study of graphs of functions, calculus is used to find high points and low points (maxima and minima), slope, concavity and inflection points. Calculus is also used to find approximate solutions to equations; in practice it is the standard way to solve differential equations and do root finding in most applications. Examples are methods such as Newton's method, fixed point iteration, and linear approximation. For instance, spacecraft use a variation of the Euler method to approximate curved courses within zero gravity environments.
-Physics makes particular use of calculus; all concepts in classical mechanics and electromagnetism are related through calculus. The mass of an object of known density, the moment of inertia of objects, and the potential energies due to gravitational and electromagnetic forces can all be found by the use of calculus. An example of the use of calculus in mechanics is Newton's second law of motion, which states that the derivative of an object's momentum with respect to time equals the net force upon it. Alternatively, Newton's second law can be expressed by saying that the net force is equal to the object's mass times its acceleration, which is the time derivative of velocity and thus the second time derivative of spatial position. Starting from knowing how an object is accelerating, we use calculus to derive its path.Maxwell's theory of electromagnetism and Einstein's theory of general relativity are also expressed in the language of differential calculus.: 52–55  Chemistry also uses calculus in determining reaction rates: 599  and in studying radioactive decay.: 814  In biology, population dynamics starts with reproduction and death rates to model population changes.: 631 Green's theorem, which gives the relationship between a line integral around a simple closed curve C and a double integral over the plane region D bounded by C, is applied in an instrument known as a planimeter, which is used to calculate the area of a flat surface on a drawing. For example, it can be used to calculate the amount of area taken up by an irregularly shaped flower bed or swimming pool when designing the layout of a piece of property.
-In the realm of medicine, calculus can be used to find the optimal branching angle of a blood vessel so as to maximize flow. Calculus can be applied to understand how quickly a drug is eliminated from a body or how quickly a cancerous tumour grows.In economics, calculus allows for the determination of maximal profit by providing a way to easily calculate both marginal cost and marginal revenue.: 387 
+    {\displaystyle ({\overline {\sigma v}})_{DD}=2.33\times 10^{-14}\cdot T^{-2/3}\cdot e^{-18.76\ T^{-1/3}}\mathrm {~{cm}^{3}/s} }
+  
+  
+    
+      
+        (
+        
+          
+            
+              σ
+              v
+            
+            ¯
+          
+        
+        
+          )
+          
+            D
+            T
+          
+        
+        =
+        3.68
+        ×
+        
+          10
+          
+            −
+            12
+          
+        
+        ⋅
+        
+          T
+          
+            −
+            2
+            
+              /
+            
+            3
+          
+        
+        ⋅
+        
+          e
+          
+            −
+            19.94
+             
+            
+              T
+              
+                −
+                1
+                
+                  /
+                
+                3
+              
+            
+          
+        
+        
+           
+          
+            
+              c
+              m
+            
+            
+              3
+            
+          
+          
+            /
+          
+          s
+        
+      
+    
+    {\displaystyle ({\overline {\sigma v}})_{DT}=3.68\times 10^{-12}\cdot T^{-2/3}\cdot e^{-19.94\ T^{-1/3}}\mathrm {~{cm}^{3}/s} }
+  with T in units of keV.
 
 
 == See also ==
-
-Glossary of calculus
-List of calculus topics
-List of derivatives and integrals in alternative calculi
-List of differentiation identities
-Publications in calculus
-Table of integrals
 
 
 == References ==
 
 
 == Further reading ==
+"What is Nuclear Fusion?". NuclearFiles.org. Archived from the original on 28 September 2006. Retrieved 12 January 2006.
+S. Atzeni; J. Meyer-ter-Vehn (2004). "Nuclear fusion reactions" (PDF). The Physics of Inertial Fusion. University of Oxford Press. ISBN 978-0-19-856264-1. Archived from the original (PDF) on 24 January 2005.
+G. Brumfiel (22 May 2006). "Chaos could keep fusion under control". Nature. doi:10.1038/news060522-2. S2CID 62598131.
+R.W. Bussard (9 November 2006). "Should Google Go Nuclear? Clean, Cheap, Nuclear Power". Google TechTalks. Archived from the original on 26 April 2007.
+A. Wenisch; R. Kromp; D. Reinberger (November 2007). "Science or Fiction: Is there a Future for Nuclear?" (PDF). Austrian Institute of Ecology.
+M. Kikuchi, K. Lackner & M. Q. Tran (2012). Fusion Physics. International Atomic Energy Agency. p. 22. ISBN 9789201304100.
+R.K. Janev, ed. (1995). Atomic and Molecular Processes in Fusion Edge Plasmas. Springer US. ISBN 978-1-4757-9319-2.
 
 
 == External links ==
 
-"Calculus", Encyclopedia of Mathematics, EMS Press, 2001 [1994]
-Weisstein, Eric W. "Calculus". MathWorld.
-Topics on Calculus at PlanetMath.
-Calculus Made Easy (1914) by Silvanus P. Thompson Full text in PDF
-Calculus on In Our Time at the BBC
-Calculus.org: The Calculus page at University of California, Davis – contains resources and links to other sites
-Earliest Known Uses of Some of the Words of Mathematics: Calculus & Analysis
-The Role of Calculus in College Mathematics from ERICDigests.org
-OpenCourseWare Calculus from the Massachusetts Institute of Technology
-Infinitesimal Calculus – an article on its historical development, in Encyclopedia of Mathematics, ed. Michiel Hazewinkel.
-Daniel Kleitman, MIT. "Calculus for Beginners and Artists".
-Calculus training materials at imomath.com
-(in English and Arabic) The Excursion of Calculus, 1772
+NuclearFiles.org – A repository of documents related to nuclear power.
+Annotated bibliography for nuclear fusion from the Alsos Digital Library for Nuclear Issues
+NRL Fusion Formulary Archived 26 October 2020 at the Wayback Machine

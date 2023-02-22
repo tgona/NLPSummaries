@@ -45,9 +45,10 @@ def summarize(text, target_rouge=0.5, summary_length=100):
             break
 
     return summary
-scrapePage("Calculus")
+scrapePage("Nuclear Fusion")
 # Example usage
 with open(os.path.join(sys.path[0], "Test.txt"), "r", encoding="utf-8") as f:
     text = f.read()
-    summary = summarize(text, target_rouge=0.5, summary_length=100)
+    summary = summarize(text, 0.9, 20)
     print(summary)
+    print(Rouge().get_scores(summary, "a nuclear reaction in which atomic nuclei of low atomic number fuse to form a heavier nucleus with the release of energy.")[0]["rouge-1"]["f"])
